@@ -102,5 +102,5 @@ use python 2.7
 
 I put sudoku.txt for test into boards.py
 
-## How to satrt
+## How to start
 python run.py
