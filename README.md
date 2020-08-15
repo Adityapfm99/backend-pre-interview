@@ -84,7 +84,6 @@ This repo already contains the configuration file for ESLint.
 This repo does not contains any configuration file for Python linting.
 
 ## Authors
-
 * **Linnovs** - *Initial work* - [linnovs](https://github.com/linnovs)
 
 [forkFromGithub]:https://github.com/en-trak/backend-pre-interview/fork
@@ -97,3 +96,11 @@ This repo does not contains any configuration file for Python linting.
 [tsSite]:https://typescriptlang.org
 [coffeeSite]:https://coffeescript.org
 [sudokuFile]:sudoku.txt
+
+## Python
+use python 2.7
+
+I put sudoku.txt for test into boards.py
+
+## How to satrt
+python run.py
